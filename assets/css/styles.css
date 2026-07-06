@@ -75,13 +75,13 @@ a:hover {
 }
 
 .brand-logo {
-  width: 36px !important;
-  height: 36px !important;
-  max-width: 36px !important;
-  max-height: 36px !important;
+  width: 48px !important;
+  height: 48px !important;
+  max-width: 48px !important;
+  max-height: 48px !important;
   border-radius: 6px;
   object-fit: cover;
-  flex: 0 0 36px;
+  flex: 0 0 48px;
   display: block;
 }
 
